@@ -1,0 +1,4 @@
+﻿  ОПН.cpp
+C:\Users\andy_\Documents\GitHub\List_Polski_notation\lab_!\ОПН\ОПН\ОПН.cpp(99,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andy_\Documents\GitHub\List_Polski_notation\lab_!\ОПН\ОПН\ОПН.cpp(77): warning C4715: List::peek: значение возвращается не при всех путях выполнения
+  ОПН.vcxproj -> C:\Users\andy_\Documents\GitHub\List_Polski_notation\lab_!\ОПН\Debug\ОПН.exe

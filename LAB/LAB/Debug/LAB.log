@@ -1,0 +1,3 @@
+﻿  LAB.cpp
+C:\Users\andy_\Desktop\Учеба\Алгосы\LAB\LAB\LAB.cpp(115): warning C4715: Array::GetEl: значение возвращается не при всех путях выполнения
+  LAB.vcxproj -> C:\Users\andy_\Desktop\Учеба\Алгосы\LAB\Debug\LAB.exe
