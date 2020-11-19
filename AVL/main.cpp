@@ -236,16 +236,15 @@ node<type>* tree<type>::NewFind(node<type> *root, type val)
 
     if (val == root->key)
     {
-        nd = root;
-        return nd;
+        return root;
     }
     if ( val < root->key)
     {
-        NewFind (root->left, val);
+       return NewFind (root->left, val);
     }
     else
     {
-        NewFind (root->right, val);
+       return NewFind (root->right, val);
     }
 }
 
