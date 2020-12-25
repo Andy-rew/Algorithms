@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Kraskala.dir/objects.a
+C:\Qt\Qt5.14.2\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\Kraskala.dir/objects.a @CMakeFiles\Kraskala.dir\objects1.rsp
+C:\Qt\Qt5.14.2\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Kraskala.dir/objects.a -Wl,--no-whole-archive  -o Kraskala.exe -Wl,--out-implib,libKraskala.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kraskala.dir\linklibs.rsp
